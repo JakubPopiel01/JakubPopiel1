@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646064935 source:c:\users\kuba\onedrive\pulpit\inf\rozgrzewka\main.c
+	<stdio.h>
+	<stdlib.h>
+
